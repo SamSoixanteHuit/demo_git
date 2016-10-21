@@ -1,1 +1,3 @@
-Ceci est un fichier texte plutôt vide
+Ceci est un fichier texte plutÃ´t vide
+
+Et maintenant on modifie le fichier depuis GitHub
