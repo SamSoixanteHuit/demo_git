@@ -3,3 +3,5 @@ Ceci est un fichier texte plutôt vide
 Et maintenant on modifie le fichier depuis GitHub
 
 Mais aussi depuis ma machine locale et maintenant depuis GitHub
+
+encore une modif pour le fun
