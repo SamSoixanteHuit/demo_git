@@ -1,2 +1,2 @@
 # demo_git
-Tuto Git
+Une demo de git qui se passe bien
